@@ -1,1 +1,1 @@
-# Lemos Ghost Trolling Menu
+Paid Menu
