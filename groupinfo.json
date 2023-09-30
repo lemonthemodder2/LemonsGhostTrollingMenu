@@ -1,0 +1,22 @@
+[
+  {
+    "name" : "Core",
+    "rank" : 0
+  },
+  {
+    "name" : "Ghost Trolling Menu",
+    "rank" : 1
+  },
+  {
+    "name" : "Libraries",
+    "rank" : 2
+  },
+  {
+    "name" : "Other Mod menus",
+    "rank" : 3
+  },
+  {
+    "name" : "Gameplay",
+    "rank" : 4
+  }
+]
